@@ -1,0 +1,23 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "mcassano@gmail.com",
+    "longName": "Tutorial 2 - Watch face",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Tutorial 2 - Watch face",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "7276e03b-b49c-475b-8704-0a1f5968312e",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
